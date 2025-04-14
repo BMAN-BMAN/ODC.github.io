@@ -1,4 +1,6 @@
-theme: jekyll-theme-merlot
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme 
 # ODC.github.io
 # Opulent Data Commons
 ### ODC is a Solana ecosystem project seeking to bring vital public data on-chain. From global crop and agricultural reports to SEC EDGAR filings, I am creating a tokenized repository for critical government-produced data with the collaborative approval of each agency involved. This will securely democratize, distribute, and preserve public data for present-day users and future generations.
